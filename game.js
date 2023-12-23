@@ -6,8 +6,7 @@ var level = 0;
 $(document).keydown(function(){
     if(level == 0){
         nextSequence();
-    }
-    
+    }    
 })
 
 
